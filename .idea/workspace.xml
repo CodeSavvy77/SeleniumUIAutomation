@@ -4,33 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6d1ab87-6aa4-49b0-af91-8aac8ff9eb13" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/170739aa-361e-4e43-a892-ab8aacdde975-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/1769d54b-5c5e-4932-b09d-9b14c6bc5121-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/279d5ab8-c47f-4313-b4f7-17802bfa8aa8-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/2b65a72e-b74a-4237-9f4e-b71bec3d6da9-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/542d6d1b-9b80-49f8-bae8-01bd3b47f815-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/6cfe6357-3274-48bf-b996-3994488ac025-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/6d594a7e-e18c-4a66-b78c-52ee3c34d7e1-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/c02db8da-3a8d-47bb-947c-f2978e375965-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/c1539252-f0ff-40e0-bafb-d15a6986c599-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/d83f73f9-9133-446a-8fc9-34719fd5d22f-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/ef7dc3d2-cbd0-4458-8af7-87f65cd38276-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/feeeb4aa-f266-49ec-bec9-f5ccfae7ce6a-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chromedriver-win64/LICENSE.chromedriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chromedriver-win64/THIRD_PARTY_NOTICES.chromedriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chromedriver-win64/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/selenium/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/selenium/LoginTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/selenium/LoginTestTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="f6d1ab87-6aa4-49b0-af91-8aac8ff9eb13" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
