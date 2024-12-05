@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f6d1ab87-6aa4-49b0-af91-8aac8ff9eb13" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/170739aa-361e-4e43-a892-ab8aacdde975-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1769d54b-5c5e-4932-b09d-9b14c6bc5121-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/279d5ab8-c47f-4313-b4f7-17802bfa8aa8-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2b65a72e-b74a-4237-9f4e-b71bec3d6da9-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/542d6d1b-9b80-49f8-bae8-01bd3b47f815-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6cfe6357-3274-48bf-b996-3994488ac025-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6d594a7e-e18c-4a66-b78c-52ee3c34d7e1-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c02db8da-3a8d-47bb-947c-f2978e375965-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c1539252-f0ff-40e0-bafb-d15a6986c599-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d83f73f9-9133-446a-8fc9-34719fd5d22f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ef7dc3d2-cbd0-4458-8af7-87f65cd38276-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/feeeb4aa-f266-49ec-bec9-f5ccfae7ce6a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chromedriver-win64/LICENSE.chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chromedriver-win64/THIRD_PARTY_NOTICES.chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chromedriver-win64/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/selenium/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/selenium/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/selenium/LoginTestTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2pnafFOO0g8U7Nkc04wglWC4e7K" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "JUnit.LoginTest.executor": "Run",
+    "JUnit.LoginTest.testLogin.executor": "Run",
+    "JUnit.LoginTestTest.executor": "Run",
+    "JUnit.LoginTestTest.testLogin.executor": "Run",
+    "JUnit.LoginTestTest.testSQLInjection.executor": "Run",
+    "Maven.ui-testing-project [test].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "code.cleanup.on.save": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "openjdk-23",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/user/IdeaProjects/SeleniumUIAutomation",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "rearrange.code.on.save": "true",
+    "settings.editor.selected.configurable": "actions.on.save"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\IdeaProjects\SeleniumUIAutomation" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.selenium" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.LoginTestTest">
+    <configuration name="LoginTestTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumUIAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.selenium" />
+      <option name="MAIN_CLASS_NAME" value="com.example.selenium.LoginTestTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTestTest.testLogin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumUIAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.selenium" />
+      <option name="MAIN_CLASS_NAME" value="com.example.selenium.LoginTestTest" />
+      <option name="METHOD_NAME" value="testLogin" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTestTest.testSQLInjection" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumUIAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.selenium" />
+      <option name="MAIN_CLASS_NAME" value="com.example.selenium.LoginTestTest" />
+      <option name="METHOD_NAME" value="testSQLInjection" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.testLogin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumUIAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.selenium" />
+      <option name="MAIN_CLASS_NAME" value="com.example.selenium.LoginTest" />
+      <option name="METHOD_NAME" value="testLogin" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LoginTestTest" />
+        <item itemvalue="JUnit.LoginTestTest.testSQLInjection" />
+        <item itemvalue="JUnit.LoginTestTest.testLogin" />
+        <item itemvalue="JUnit.LoginTest.testLogin" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6d1ab87-6aa4-49b0-af91-8aac8ff9eb13" name="Changes" comment="" />
+      <created>1733404395697</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733404395697</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
